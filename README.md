@@ -27,7 +27,10 @@ The project follows strict MVVM principles:
 - **Base Logic**: Shared session flows are encapsulated in `BaseSessionViewModel`.
 
 ## 📸 Screenshots
-*(Add screenshots here once the UI is finalized)*
+<p align="center">
+  <img src="screenshots/screenshot_1.png" width="300" />
+  <img src="screenshots/screenshot_2.png" width="300" />
+</p>
 
 ## 📥 Getting Started
 1. Clone the repository:
