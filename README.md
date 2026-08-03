@@ -32,7 +32,7 @@ The project follows strict MVVM principles:
 ## 📥 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/harryhtran/UofACapstone.git
+   git clone https://github.com/harry-h-tran/UofACapstone.git
    ```
 2. Open the project in **Android Studio (Ladybug or newer)**.
 3. Sync Project with Gradle Files.
