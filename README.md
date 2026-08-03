@@ -1,6 +1,6 @@
-# Clay Shooting Tracker (Capstone 2026)
+# Clay Shooting Tracker
 
-A modern Android application built with Kotlin and Jetpack Compose to track and analyze clay shooting performance. This project was developed as a Capstone project for 2026.
+A modern Android application built with Kotlin and Jetpack Compose to track and analyze clay shooting performance. This project was developed as a Capstone project for the University of Arizona's Applied Computing Program.
 
 ## 🚀 Features
 - **Session Tracking**: Support for multiple shooting disciplines:
