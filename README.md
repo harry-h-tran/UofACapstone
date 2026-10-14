@@ -42,4 +42,4 @@ The project follows strict MVVM principles:
 4. Run on an emulator or physical device (API 24+ recommended).
 
 ## 📄 License
-All rights reserved. This source code is provided for educational and viewing purposes only. See the [LICENSE](LICENSE) file for detailed terms and conditions.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
